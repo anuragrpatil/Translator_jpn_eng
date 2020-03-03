@@ -1,2 +1,2 @@
 # Translator_jpn_eng
-A translator using word embedding with Word2Vec based on ecoder-decoder model. 
+The model has been taken off as this was something developed at NOMURA. 
